@@ -1,0 +1,13 @@
+Inspired Theme
+
+Install like a regular theme and REMEMBER to place a coppy of the "top.txt" in every module
+folder so that the title will display corectly on the whole site
+
+The package also includes 2templates for the "system" module :
+
+- system_redirect.html 
+- system_siteclosed.html
+
+Thank you for chosing the "Inspired" theme
+
+Enjoy
